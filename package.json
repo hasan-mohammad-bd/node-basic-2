@@ -1,0 +1,16 @@
+{
+  "name": "node.js_by_programming_hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-2-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.9.0",
+    "nodemon": "^2.0.19"
+  }
+}
