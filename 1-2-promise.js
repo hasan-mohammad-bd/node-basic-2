@@ -4,6 +4,7 @@
 1. pending 
 2. resolve
 3. rejected
+
 */
 
 //example of an promise
@@ -35,3 +36,6 @@ const myPromise = new Promise((resolve, reject) => {
 myPromise
     .then(res => console.log("found in then",res))
     .catch(err => console.log("found in catch",err))
+
+
+    //this is the test from what the hell is going on
