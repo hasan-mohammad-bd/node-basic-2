@@ -1,4 +1,6 @@
 const events = require('events')
+
+//creating an instance
 const eventEmitter = new events.EventEmitter()
 
 
