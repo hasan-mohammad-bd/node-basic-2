@@ -23,6 +23,8 @@ const myPromise = new Promise((resolve, reject) => {
 
 
 
+
+
 //to get the promise result (consume)
 
 //promise has 3 method: 
